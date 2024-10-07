@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.services img {
+    width: 100%;
+    height: auto;
+}
+.featurette-heading {
+    margin-top: 5rem;
+}
+.slider img{
+    width: 100%;
+    height: auto;
+}
